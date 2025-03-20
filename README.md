@@ -5,7 +5,7 @@ This repository contains sound files corresponding to each piano key. The files 
 
 # Included Files
 - C2.mp3 - Sound of piano key C2 (Do)
-- C#2.mp3 - Sound of piano key C#2 (Do#)
+- Csharp2.mp3 - Sound of piano key C#2 (Do#)
 - D2.mp3 - Sound of piano key D2 (Re)
 - ・・・
 - C7.mp3 - Sound of piano key C7 (Do)
@@ -35,7 +35,7 @@ Este repositorio contiene archivos de sonido correspondientes a cada tecla del p
 
 # Archivos incluidos
 - C2.mp3 - Sonido de la tecla C2 (Do)
-- C#2.mp3 - Sonido de la tecla C#2 (Do#)
+- Csharp2.mp3 - Sonido de la tecla C#2 (Do#)
 - D2.mp3 - Sonido de la tecla D2 (Re)
 - ・・・
 - C7.mp3 - Sonido de la tecla C7 (Do)
@@ -66,7 +66,7 @@ Los archivos de sonido de este repositorio están publicados bajo la licencia Cr
 
 # 包含的文件
 - C2.mp3 - 钢琴C2（Do）音
-- C#2.mp3 - 钢琴C#2（Do#）音
+- Csharp2.mp3 - 钢琴C#2（Do#）音
 - D2.mp3 - 钢琴D2（Re）音
 - ・・・
 - C7.mp3 - 钢琴C7（Do）音
@@ -97,7 +97,7 @@ void playSound() {
 
 # 포함된 파일
 - C2.mp3 - 피아노의 C2 (도) 음
-- C#2.mp3 - 피아노의 C#2 (도#) 음
+- Csharp2.mp3 - 피아노의 C#2 (도#) 음
 - D2.mp3 - 피아노의 D2 (레) 음
 - ・・・
 - C7.mp3 - 피아노의 C7 (도) 음
@@ -128,7 +128,7 @@ void playSound() {
 
 # 含まれるファイル
 - C2.mp3 - ピアノのC2（ド）の音
-- C#2.mp3 - ピアノのC#2（ド#）の音
+- Csharp2.mp3 - ピアノのC#2（ド#）の音
 - D2.mp3 - ピアノのD2（レ）の音
 - ・・・
 - C7.mp3 - ピアノのC7（ド）の音
