@@ -25,9 +25,9 @@ void playSound() {
 ```
 # License
 The sound files in this repository are released under the Creative Commons Zero (CC0) license, which allows free usage for any purpose, including commercial use and modification.
+
+---
  
- 
-  
 ### Español
 
 # Archivos de sonido de piano (C2 - C5)
@@ -56,9 +56,9 @@ void playSound() {
 
 # Licencia
 Los archivos de sonido de este repositorio están publicados bajo la licencia Creative Commons Zero (CC0), lo que permite su uso libre para cualquier propósito, incluyendo uso comercial y modificación.
- 
- 
-  
+
+---
+
 ### 中文
 
 # 钢琴音源 (C2 - C5)
@@ -87,9 +87,9 @@ void playSound() {
 
 # 许可证
 本仓库的音源文件已发布在Creative Commons Zero (CC0) 许可证下，允许自由用于任何目的，包括商业用途和修改。
-  
-  
-  
+
+---
+
 ### 한국어
 
 # 피아노 음원 (C2 - C5)
@@ -118,9 +118,9 @@ void playSound() {
 
 # 라이센스
 이 저장소의 음원 파일은 Creative Commons Zero (CC0) 라이센스 하에 공개되어 있으며, 상업적 사용과 수정 등을 포함한 모든 용도로 자유롭게 사용할 수 있습니다.
-  
-  
-  
+
+---
+
 ### 日本語
 
 # ピアノ音源 (C2 - C5)
