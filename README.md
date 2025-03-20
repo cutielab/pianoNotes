@@ -1,16 +1,16 @@
-# English
+### English
 
-## Piano Sound Files (C2 - C5)
+# Piano Sound Files (C2 - C5)
 This repository contains sound files corresponding to each piano key. The files include recordings of notes from C2 to C5.
 
-## Included Files
+# Included Files
 - C2.mp3 - Sound of piano key C2 (Do)
 - C#2.mp3 - Sound of piano key C#2 (Do#)
 - D2.mp3 - Sound of piano key D2 (Re)
 - ・・・
 - C5.mp3 - Sound of piano key C5 (Do)
 
-## Usage Instructions & Examples
+# Usage Instructions & Examples
 - This sound set can be used for music production or application development to play the sound of each piano key. For example, it can be used in music education apps or instrument simulators.
 - Clone or download this repository and add the sound files to your project.
 - If you want to use the sound files via URL, refer to the following code:
@@ -23,17 +23,17 @@ void playSound() {
   AudioPlayer().play(UrlSource('https://cutielab.github.io/pianoNotes/Csharp3.mp3'));
 }
 ```
-## License
+# License
 The sound files in this repository are released under the Creative Commons Zero (CC0) license, which allows free usage for any purpose, including commercial use and modification.
 
 
 
-# Español
+### Español
 
-## Archivos de sonido de piano (C2 - C5)
+# Archivos de sonido de piano (C2 - C5)
 Este repositorio contiene archivos de sonido correspondientes a cada tecla del piano. Los archivos incluyen grabaciones de notas desde C2 hasta C5.
 
-## Archivos incluidos
+# Archivos incluidos
 - C2.mp3 - Sonido de la tecla C2 (Do)
 - C#2.mp3 - Sonido de la tecla C#2 (Do#)
 - D2.mp3 - Sonido de la tecla D2 (Re)
