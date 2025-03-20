@@ -1,14 +1,14 @@
 ### English
 
-# Piano Sound Files (C2 - C5)
-This repository contains sound files corresponding to each piano key. The files include recordings of notes from C2 to C5.
+# Piano Sound Files (C2 - C7)
+This repository contains sound files corresponding to each piano key. The files include recordings of notes from C2 to C7.
 
 # Included Files
 - C2.mp3 - Sound of piano key C2 (Do)
 - C#2.mp3 - Sound of piano key C#2 (Do#)
 - D2.mp3 - Sound of piano key D2 (Re)
 - ・・・
-- C5.mp3 - Sound of piano key C5 (Do)
+- C7.mp3 - Sound of piano key C7 (Do)
 
 # Usage Instructions & Examples
 - This sound set can be used for music production or application development to play the sound of each piano key. For example, it can be used in music education apps or instrument simulators.
@@ -30,15 +30,15 @@ The sound files in this repository are released under the Creative Commons Zero 
  
 ### Español
 
-# Archivos de sonido de piano (C2 - C5)
-Este repositorio contiene archivos de sonido correspondientes a cada tecla del piano. Los archivos incluyen grabaciones de notas desde C2 hasta C5.
+# Archivos de sonido de piano (C2 - C7)
+Este repositorio contiene archivos de sonido correspondientes a cada tecla del piano. Los archivos incluyen grabaciones de notas desde C2 hasta C7.
 
 # Archivos incluidos
 - C2.mp3 - Sonido de la tecla C2 (Do)
 - C#2.mp3 - Sonido de la tecla C#2 (Do#)
 - D2.mp3 - Sonido de la tecla D2 (Re)
 - ・・・
-- C5.mp3 - Sonido de la tecla C5 (Do)
+- C7.mp3 - Sonido de la tecla C7 (Do)
 
 # Instrucciones de uso y ejemplos
 - Este conjunto de sonidos puede usarse para producción musical o desarrollo de aplicaciones para reproducir el sonido de cada tecla del piano. Por ejemplo, puede utilizarse en aplicaciones de educación musical o simuladores de instrumentos.
@@ -61,15 +61,15 @@ Los archivos de sonido de este repositorio están publicados bajo la licencia Cr
 
 ### 中文
 
-# 钢琴音源 (C2 - C5)
-本仓库包含对应每个钢琴键的音源文件。文件包含了从C2到C5的音符录音。
+# 钢琴音源 (C2 - C7)
+本仓库包含对应每个钢琴键的音源文件。文件包含了从C2到C7的音符录音。
 
 # 包含的文件
 - C2.mp3 - 钢琴C2（Do）音
 - C#2.mp3 - 钢琴C#2（Do#）音
 - D2.mp3 - 钢琴D2（Re）音
 - ・・・
-- C5.mp3 - 钢琴C5（Do）音
+- C7.mp3 - 钢琴C7（Do）音
 
 # 使用方法与示例
 - 此音源集可以用于音乐制作或应用开发，用来播放每个钢琴键的音符。例如，可以在音乐教育应用或乐器模拟器中使用。
@@ -92,15 +92,15 @@ void playSound() {
 
 ### 한국어
 
-# 피아노 음원 (C2 - C5)
-이 저장소에는 각 피아노 키에 해당하는 음원 파일이 포함되어 있습니다. C2부터 C5까지의 음을 녹음한 파일이 포함되어 있습니다.
+# 피아노 음원 (C2 - C7)
+이 저장소에는 각 피아노 키에 해당하는 음원 파일이 포함되어 있습니다. C2부터 C7까지의 음을 녹음한 파일이 포함되어 있습니다.
 
 # 포함된 파일
 - C2.mp3 - 피아노의 C2 (도) 음
 - C#2.mp3 - 피아노의 C#2 (도#) 음
 - D2.mp3 - 피아노의 D2 (레) 음
 - ・・・
-- C5.mp3 - 피아노의 C5 (도) 음
+- C7.mp3 - 피아노의 C7 (도) 음
 
 # 사용 방법 및 예시
 - 이 음원 세트는 음악 제작이나 애플리케이션 개발에서 각 피아노 키의 음을 재생하는 데 사용할 수 있습니다. 예를 들어, 음악 교육 앱이나 악기 시뮬레이터에서 활용할 수 있습니다.
@@ -123,15 +123,15 @@ void playSound() {
 
 ### 日本語
 
-# ピアノ音源 (C2 - C5)
-このリポジトリには、ピアノの各キーに対応した音源ファイルが含まれています。C2 から C5 までの音を録音したファイルが揃っています。
+# ピアノ音源 (C2 - C7)
+このリポジトリには、ピアノの各キーに対応した音源ファイルが含まれています。C2 から C7 までの音を録音したファイルが揃っています。
 
 # 含まれるファイル
 - C2.mp3 - ピアノのC2（ド）の音
 - C#2.mp3 - ピアノのC#2（ド#）の音
 - D2.mp3 - ピアノのD2（レ）の音
 - ・・・
-- C5.mp3 - ピアノのC5（ド）の音
+- C7.mp3 - ピアノのC7（ド）の音
 
 # 使用方法・使用例
 - この音源セットは、音楽制作やアプリケーション開発で、ピアノの各キーの音を再生するために使用できます。例えば、音楽教育アプリや楽器シミュレーションなどで活用できます。
